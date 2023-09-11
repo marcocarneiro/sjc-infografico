@@ -1,0 +1,12 @@
+main.mc_cidade
+
+main.mc_dados (Labels):
+	dados_gerais		main.bt_dados_gerais
+	meio_ambiente		main.bt_meioambiente
+	saude			main.bt_saude
+	economia		main.bt_economia
+	trabalho_renda		main.bt_trabrenda
+	educacao		main.bt_educacao
+
+main.mc_dados.btn_fechar
+
